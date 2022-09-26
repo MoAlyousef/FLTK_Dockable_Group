@@ -1,6 +1,6 @@
 # FLTK Dockable Group
 
-This library uses code by Ian MacArthur implementing dockable toolbars in a portable, cross-platform manner.
+This library uses code by [Ian MacArthur](https://github.com/imaclmaca) implementing dockable toolbars in a portable, cross-platform manner.
 Relevant fltk-general discussion:
 https://groups.google.com/g/fltkgeneral/c/DX7DpKaoxh4
 
